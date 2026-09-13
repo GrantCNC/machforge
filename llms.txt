@@ -1,6 +1,8 @@
 MachForge
 
-«MachForge provides engineering-led CNC manufacturing coordination for robotics, UAV, and hardware teams, supporting projects from engineering prototypes to low-volume production through vetted manufacturing partners in Shenzhen, China.»
+«MachForge is an engineering-led CNC manufacturing coordination studio in Shenzhen, providing DFM review, CNC prototyping, and low-volume production support for robotics, UAV, and hardware teams.»
+
+MachForge supports projects from engineering prototypes to low-volume production through vetted manufacturing partners in Shenzhen, China. We focus on DFM review, manufacturability decisions, supplier coordination, quality control, and reducing production risk before parts are cut.
 
 Services
 
@@ -34,6 +36,13 @@ Industries
 - Hardware Products
 - Engineering Prototypes
 - Low-Volume Hardware Production
+
+Typical Use Cases
+
+- Hardware startups needing CNC prototypes before production
+- Robotics teams requiring precision metal components
+- UAV companies coordinating low-volume production in China
+- Engineering teams seeking DFM review before sending drawings to manufacturing partners
 
 Location
 
