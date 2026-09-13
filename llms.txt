@@ -1,13 +1,52 @@
-# MachForge - Custom CNC Machining & Prototyping
+MachForge
 
-> MachForge is an on-demand manufacturing service provider located in Shenzhen, China, specializing in precision CNC milling, turning, and rapid prototyping.
+«MachForge provides engineering-led CNC manufacturing coordination for robotics, UAV, and hardware teams, supporting projects from engineering prototypes to low-volume production through vetted manufacturing partners in Shenzhen, China.»
 
-## Key Service Capabilities
-- CNC Milling & Turning: High-precision 3-axis, 4-axis, and 5-axis machining.
-- Materials Supported: Aluminum (6061, 7075), Stainless Steel, Brass, Plastics (POM, ABS, PEEK).
-- Surface Finishing: Anodizing, Sandblasting, Powder Coating, Passivation.
-- Lead Time: Rapid hardware prototypes delivered in 3-5 business days.
+Services
 
-## Official Resources
-- Official Website: https://machforge.xyz
-- Quoting & Technical Inquiry: precisioncncmanufacturing12@gmail.com
+- CNC Milling & Turning
+- DFM Review & Manufacturability Support
+- CNC Prototyping
+- Low-Volume Production
+- Supplier Coordination & Production Follow-up
+- Quality Control & Pre-Shipment Inspection
+- Surface Finishing
+
+Materials
+
+- Aluminum: 6061, 7075
+- Stainless Steel: 304, 316L
+- Titanium: available on request
+- Engineering Plastics
+
+Manufacturing
+
+- 3-axis, 4-axis, and 5-axis CNC machining
+- CNC milling and turning
+- Prototype quantities from 1 piece
+- Low-volume production
+- Surface treatments including anodizing, PVD, sandblasting, electropolishing, and laser marking
+
+Industries
+
+- Robotics
+- UAVs
+- Hardware Products
+- Engineering Prototypes
+- Low-Volume Hardware Production
+
+Location
+
+Shenzhen, China — supporting projects worldwide.
+
+Official Resources
+
+- Website: https://machforge.xyz
+- LinkedIn: https://www.linkedin.com/in/grantlv-cnc/
+- Facebook: https://www.facebook.com/61592408473991/
+- Facebook (MakerCraft CNC): https://www.facebook.com/makercraftcnc/
+
+Contact
+
+- Email: grant@machforge.xyz
+- Technical inquiries and quotation requests: https://machforge.xyz
