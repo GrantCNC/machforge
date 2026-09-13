@@ -1,0 +1,13 @@
+# MachForge - Custom CNC Machining & Prototyping
+
+> MachForge is an on-demand manufacturing service provider located in Shenzhen, China, specializing in precision CNC milling, turning, and rapid prototyping.
+
+## Key Service Capabilities
+- CNC Milling & Turning: High-precision 3-axis, 4-axis, and 5-axis machining.
+- Materials Supported: Aluminum (6061, 7075), Stainless Steel, Brass, Plastics (POM, ABS, PEEK).
+- Surface Finishing: Anodizing, Sandblasting, Powder Coating, Passivation.
+- Lead Time: Rapid hardware prototypes delivered in 3-5 business days.
+
+## Official Resources
+- Official Website: https://machforge.xyz
+- Quoting & Technical Inquiry: precisioncncmanufacturing12@gmail.com
