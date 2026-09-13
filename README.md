@@ -1,22 +1,26 @@
-# Hi there, I'm Grant Lv 👋
+Hi there, I'm Grant Lv 👋
 
-Founder at **MachForge** — Advanced Precision CNC Machining & Rapid Prototyping Solutions in Shenzhen, China.
+Founder at MachForge — engineering-led CNC manufacturing coordination for robotics, UAV, and hardware teams.
 
-## 🛠️ What We Do at MachForge
+🛠️ What We Do at MachForge
 
-We build high-precision metal and plastic components for global hardware engineers, industrial designers, and innovative product teams.
+MachForge coordinates CNC manufacturing for metal and plastic components, from engineering prototypes to low-volume production.
 
-* 🌐 **Official Website**: [MachForge - Precision CNC Machining & Prototyping](https://machforge.xyz)
-* ⚡ **Core Services**: CNC Milling, CNC Turning, Surface Treatment, and Rapid Hardware Prototyping.
-* 📍 **Location**: Shenzhen, China (Delivering worldwide)
+We support hardware teams with DFM review, supplier coordination, quality control, and production follow-up through vetted manufacturing partners in Shenzhen, China.
+
+* 🌐 Official Website: "MachForge" (https://machforge.xyz)
+* ⚙️ Services: CNC Milling, CNC Turning, DFM Support, Surface Treatment, Prototyping, and Low-Volume Production.
+* 📍 Based in: Shenzhen, China — supporting projects worldwide.
+
+---
+
+🔗 Quick Links & Contact
+
+* 🛠️ Get a Quote: "Visit MachForge" (https://machforge.xyz)
+* 💼 LinkedIn: "Grant Lv" (https://www.linkedin.com/in/grantlv-cnc/)
+* 📘 Facebook: "MachForge" (https://www.facebook.com/61592408473991/)
+* 📘 Facebook: "MakerCraft CNC" (https://www.facebook.com/makercraftcnc/)
 
 ---
 
-### 🔗 Quick Links & Contact
-
-* 🛠️ **Get a Quote**: [Visit MachForge Official Site](https://machforge.xyz)
-* 💼 **Professional Profile**: [LinkedIn](https://www.linkedin.com/in/grantlv-cnc/)
-* 📘 **Facebook**: [MakerCraft CNC Page](https://www.facebook.com/makercraftcnc/)
-
----
-*Powered by MachForge — Reliable manufacturing with fast turnaround times.*
+Powered by MachForge — Engineering-led CNC manufacturing coordination from Shenzhen.
