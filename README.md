@@ -1,25 +1,25 @@
-Hi there, I'm Grant Lv 👋
+# Hi there, I'm Grant Lv 👋
 
 Founder at MachForge — engineering-led CNC manufacturing coordination for robotics, UAV, and hardware teams.
 
-🛠️ What We Do at MachForge
+## 🛠️ What We Do at MachForge
 
 MachForge coordinates CNC manufacturing for metal and plastic components, from engineering prototypes to low-volume production.
 
-We support hardware teams with DFM review, supplier coordination, quality control, and production follow-up through vetted manufacturing partners in Shenzhen, China.
+We support hardware teams with DFM review, supplier coordination, quality control, and production follow-up through qualified manufacturing partners in Shenzhen, China.
 
-Typical Use Cases
+### Typical Use Cases
 
 - Hardware startups needing CNC prototypes before production
 - Robotics teams requiring precision metal components
 - UAV companies coordinating low-volume production in China
 - Engineering teams seeking DFM review before machining
 
-🌐 Official Website
+## 🌐 Official Website
 
-- MachForge: "https://machforge.xyz" (https://machforge.xyz/)
+**MachForge:** [machforge.xyz](https://machforge.xyz/)
 
-⚙️ Services
+## ⚙️ Services
 
 - CNC Milling & Turning
 - DFM Review & Manufacturability Support
@@ -29,13 +29,15 @@ Typical Use Cases
 - Quality Control & Pre-Shipment Inspection
 - Surface Finishing (anodizing, PVD, sandblasting, electropolishing, laser marking)
 
-📍 Location
+## 📍 Location
 
 Shenzhen, China — supporting projects worldwide.
 
-🔗 Quick Links & Contact
+## 🔗 Quick Links & Contact
 
-- 🛠️ Get a Quote / Send CAD for Review: "Visit MachForge" (https://machforge.xyz/)
-- 💼 LinkedIn: "Grant Lv" (https://www.linkedin.com/in/grantlv-cnc/)
-- 📘 Facebook (MachForge): "https://www.facebook.com/61592408473991/" (https://www.facebook.com/61592408473991/)
-- 📘 Facebook (MakerCraft CNC): "https://www.facebook.com/makercraftcnc/" (https://www.facebook.com/makercraftcnc/)
+- 🛠️ **Get a Quote / Send CAD for Review:** [Visit MachForge](https://machforge.xyz/)
+- 💼 **LinkedIn:** [Grant Lv](https://www.linkedin.com/in/grantlv-cnc/)
+- 📘 **Facebook:** [MachForge](https://www.facebook.com/machforgecnc/)
+- 𝕏 **X:** [@machforgecnc](https://x.com/machforgecnc)
+- 📸 **Instagram:** [@machforgecnc](https://www.instagram.com/machforgecnc/)
+- 📩 **Email:** grant@machforge.xyz
