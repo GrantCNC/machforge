@@ -50,12 +50,11 @@ Shenzhen, China — supporting projects worldwide.
 
 Official Resources
 
-- Website: https://machforge.xyz
+- Website: https://www.machforge.xyz
 - LinkedIn: https://www.linkedin.com/in/grantlv-cnc/
-- Facebook: https://www.facebook.com/61592408473991/
-- Facebook (MakerCraft CNC): https://www.facebook.com/makercraftcnc/
+- Facebook: https://www.facebook.com/machforgecnc/
 
 Contact
 
 - Email: grant@machforge.xyz
-- Technical inquiries and quotation requests: https://machforge.xyz
+- Technical inquiries and quotation requests: https://www.machforge.xyz
