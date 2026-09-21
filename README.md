@@ -36,6 +36,7 @@ Shenzhen, China — supporting projects worldwide.
 ## 🔗 Quick Links & Contact
 
 - 🛠️ **Get a Quote / Send CAD for Review:** [Visit MachForge](https://machforge.xyz/)
+- 🛒 **Fiverr CNC Service:** [View CNC Manufacturing Service](https://www.fiverr.com/s/d0DB8A0)
 - 💼 **LinkedIn:** [Grant Lv](https://www.linkedin.com/in/grantlv-cnc/)
 - 📘 **Facebook:** [MachForge](https://www.facebook.com/machforgecnc/)
 - 𝕏 **X:** [@machforgecnc](https://x.com/machforgecnc)
