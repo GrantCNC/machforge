@@ -41,4 +41,6 @@ Shenzhen, China — supporting projects worldwide.
 - 📘 **Facebook:** [MachForge](https://www.facebook.com/machforgecnc/)
 - 𝕏 **X:** [@machforgecnc](https://x.com/machforgecnc)
 - 📸 **Instagram:** [@machforgecnc](https://www.instagram.com/machforgecnc/)
+- ▶️ **YouTube:** [MachForge CNC](https://www.youtube.com/@machforgecnc)
+- 🎵 **TikTok:** [@machforgecnc](https://www.tiktok.com/@machforgecnc)
 - 📩 **Email:** grant@machforge.xyz
